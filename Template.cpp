@@ -12,7 +12,7 @@ int gcd (int a, int b) {
 // to clculate the value in string form such as 12345 ->convert in num not a string
 int fun(string s)
 {
-    int n = s.size();
+    int n = s.size();a
     ll ans = 0;
     for (int i = 0; i < n; i++)
     {

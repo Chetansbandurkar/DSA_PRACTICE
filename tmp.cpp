@@ -1,29 +1,20 @@
 class Solution {
 public:
-   int solve(int i,int j,vector<int>&v,int &k,vector<vector<int>>&dp ){
-    if(abs(v[i]-v[j])<=k){
-        return 0;
-    }
-    if(dp[i][j]!=-1)return dp[i][j];
-    int inc=v[i]+solve(i+1,j,v,k);
-    int exc=v[j]-v[i]-k+solve(i,j-1,v,k);
-
-    return dp[i][j]=min(inc,exc);
-   }
-    int minimumDeletions(string word, int k) {
-        map<char,int>mp;
-        for(auto it:word){
-            mp[it]++;
+    int minOperations(int k) {
+        priority_queue<int>pq;
+        vector<int>ans;
+        ans.push_back(freq[0]);
+        pq.push(freq[0]);
+        for(int i=1;i<freq.size();i++){
+            if(freq[i]<0){
+                int val=abs(freq[i]);
+                while(!pq.empty() && val){
+                    val-=pq.top();pq.pop();
+                }
+            }
+            pq.push(freq[i]);
+            ans.push_back(pq.top());
+            
         }
-        vector<int>v;
-        for(auto it:mp{
-            v.push_back(it.second);
-        }
-        sort(v.begin(),v.end());
-
-        int n=v.size()-1;
-        vector<vector<int>>do(26,vector<int>(26,-1));
-        solve(i,j,v,k,dp);
-
     }
 };
