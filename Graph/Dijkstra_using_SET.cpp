@@ -28,8 +28,6 @@ class Solution
                 if(dis+edgeWeight<dist[adjNode]){
                     if(dist[adjNode]!=1e9)
                     st.erase({dist[adjNode],adjNode});
-                    
-                    
                     // update bhi kr le bhai adNOde side
                     dist[adjNode]=dis+edgeWeight;
                     st.insert({dist[adjNode],adjNode});
