@@ -1,39 +1,47 @@
 class Solution
 {
 public:
-    string getSmallestString(string s, int k)
+    
+    int maxPointsInsideSquare(vector<vector<int>> &p, string s)
     {
-
-        map<int, char> map;
-
-        for (int i = 1; i <= 26; ++i)
+        vector<pair<int, string >> v;
+        int i = 0;
+        map<int,char>mp;
+        for (auto it : p)
         {
-            map[i] = 'a' + i;
+            int val=it[0]*it[0]+it[1]*it[1];
+
+            if(abs(it[0])==abs(it[1]))
+            {
+                string t="s"+s[i];
+                v.push_back({val,t});
+            }
+            else{
+                string t="n"+s[i];
+                v.push_back({val,t});
+            }
+            i++;
+            
         }
-        for (int i = 0; i < s.size() && k; i++)
-        {
-            int val = s[i] - 'a'+1;
-            cout << val << endl;
-            int m = val + k;
-            int kv = 26 - val + 1;
-            // k-=kv;
-            if (m > 26 && kv < val)
-            {
-                s[i] = map[kv];
-                k -= kv;
+        sort(v.begin(),v.end());
+        int cnt=0;
+        int ans=0;
+        for(auto it:v){
+            auto st=it.second;
+            char f=st[0];
+            char se=st[1];
+
+            if(mp[se]>1){
+                cnt--;
             }
-            else if (k <= val)
-            {
-                if (k == val)
-                    s[i] = map[val - k];
-                k;
+            else if(f=='s'){
+                ans=max(ans,cnt);
+                cnt++;
             }
-            else
-            {
-                s[i] = map[0];
-                k -= val;
-            }
+            
+            mp[se]++;
         }
-        return s;
+
+        return ans;
     }
 };
