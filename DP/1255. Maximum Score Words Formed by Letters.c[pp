@@ -1,0 +1,46 @@
+class Solution {
+public:
+    int n;
+    int maxScore;
+
+    void solve(int i, vector<int>& score, vector<string>& words, int currScore, vector<int>& fre)  {
+         
+        if(i>=n){
+            maxScore=max(maxScore,currScore);
+            return ;
+        }
+
+        // curr word can be taken or not 
+        int tempScore=0;
+        vector<int>tmpfre=fre;
+        bool flag=true;
+        for(auto it:words[i]){
+            if(tmpfre[it-'a']>0){
+                tmpfre[it-'a']--;
+                tempScore+=score[it-'a'];
+            }
+            else{
+                flag=false;
+                break;
+            }
+        }
+        // take 
+        if(flag){
+            solve(i+1,score,words,currScore+tempScore,tmpfre);
+        }
+
+        // non take
+        solve(i+1,score,words,currScore,fre);
+    }
+    int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score)  { 
+       vector<int>fre(26,0);
+       for(char &ch : letters){
+            fre[ch - 'a']++;
+        }
+       n=words.size();
+       maxScore=INT_MIN;
+       solve(0,score,words,0,fre);
+
+       return maxScore;
+    }
+};
