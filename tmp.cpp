@@ -1,27 +1,25 @@
 class Solution
 {
 public:
-    
-    int maxPointsInsideSquare(vector<vector<int>> &p, string s)
+    long long solve(vector<int> &p, int ind, long long rew,map<long long ,long>&mp)
     {
-        map<int,set<int>>mp;
-        unordered_map<int,int>mpp;
-        vector<int>ans;
-        for(auto i:q){
-            mp[i[1]].insert(i[0]);
-            mpp[i[0]]=i[1];
-            if(mp[i[1]]){
-                int c=mpp[i[0]];
-                auto st=mp[c];
-                st.erase(i[0]);
-                if(st.empty()){
-                    mp.erase(i[0]);
-                }
-                ans.push_back(mp.size());
-            }
+        if (ind >= p.size())
+            return 0;
 
+        if (dp[ind]!= -1)
+            return dp[ind][prev + 1];
+        long long inc = 0, exc = 0;
+        if (prev == -1 || !mp[p[ind]+1] && !mp[p[ind]-1 && !mp[p[ind]-2]] && !mp[p[ind]+2])
+        {
+            mp[p[ind]]++;
+            inc = p[ind] + solve(p, ind + 1, rew + p[ind]);
+            mp[p[ind]]--;
         }
+        exc = solve(p, ind + 1, rew);
 
-        return ans;
+        return dp[ind] = max(inc, exc);
+    }
+    long long maximumTotalDamage(vector<int> &power)
+    {
     }
 };
