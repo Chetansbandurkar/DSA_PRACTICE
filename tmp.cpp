@@ -1,25 +1,34 @@
 class Solution
 {
+    using ll = long long;
+
 public:
-    long long solve(vector<int> &p, int ind, long long rew,map<long long ,long>&mp)
+    long long solve(vector<int> &nums, bool flg, int ind, vector<vector<long long>> &dp)
     {
-        if (ind >= p.size())
-            return 0;
-
-        if (dp[ind]!= -1)
-            return dp[ind][prev + 1];
-        long long inc = 0, exc = 0;
-        if (prev == -1 || !mp[p[ind]+1] && !mp[p[ind]-1 && !mp[p[ind]-2]] && !mp[p[ind]+2])
+        if (ind >= nums.size())
         {
-            mp[p[ind]]++;
-            inc = p[ind] + solve(p, ind + 1, rew + p[ind]);
-            mp[p[ind]]--;
+            return 0;
         }
-        exc = solve(p, ind + 1, rew);
+        if (dp[ind][flg] != -1)
+            return dp[ind][flg];
+        long long inc = 0, exc = 0;
+        long long encc = 0;
+        if (flg)
+        {
+            inc = nums[ind] * (-1) + solve(nums, 0, ind + 1);
+            exc = nums[ind] + solve(nums, flg, ind + 1)
+        }
+        else
+        {
+            encc = nums[ind] + solve(nums, 1, ind + 1);
+        }
 
-        return dp[ind] = max(inc, exc);
+        return dp[ind][flg] = max({inc, encc, exc});
     }
-    long long maximumTotalDamage(vector<int> &power)
+    long long maximumTotalCost(vector<int> &nums)
     {
+        int n = nums.size();
+        vector<vector<long long>> dp(n, vector<long long>(2, -1));
+        return solve(nums, 0, 0, dp);
     }
 };
