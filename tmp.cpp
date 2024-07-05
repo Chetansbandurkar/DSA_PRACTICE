@@ -1,34 +1,24 @@
 class Solution
 {
-    using ll = long long;
-
 public:
-    long long solve(vector<int> &nums, bool flg, int ind, vector<vector<long long>> &dp)
+    int solve(vector<int> &nums, int ind, int prev, vector<int> v, int &k)
     {
         if (ind >= nums.size())
-        {
             return 0;
-        }
-        if (dp[ind][flg] != -1)
-            return dp[ind][flg];
-        long long inc = 0, exc = 0;
-        long long encc = 0;
-        if (flg)
+        int ans = 0;
+        if (prev == -1 || (!v.empty()) && (nums[ind] + nums[prev]) % k == v.back())
         {
-            inc = nums[ind] * (-1) + solve(nums, 0, ind + 1);
-            exc = nums[ind] + solve(nums, flg, ind + 1)
+            v.push_back(nums[ind]);
+            ans = 1 + solve(nums, ind + 1, ind, v, k);
+            v.pop_back();
         }
-        else
-        {
-            encc = nums[ind] + solve(nums, 1, ind + 1);
-        }
+        int exc = solve(nums, ind + 1, prev, v, k);
 
-        return dp[ind][flg] = max({inc, encc, exc});
+        return max(exc, ans);
     }
-    long long maximumTotalCost(vector<int> &nums)
+    int maximumLength(vector<int> &nums, int k)
     {
-        int n = nums.size();
-        vector<vector<long long>> dp(n, vector<long long>(2, -1));
-        return solve(nums, 0, 0, dp);
+        vector<int> v;
+        return solve(nums, 0, -1, v, k)
     }
 };
