@@ -44,7 +44,7 @@ public:
         set<vector<int>> seen; // vist already
         queue<vector<int>> q;  // bfs
         q.push({box_x, box_y, person_x, person_y});
-        // seen.insert({box_x, box_y, person_x, person_y});
+        seen.insert({box_x, box_y, person_x, person_y});
         int ans = 0;
         while (!q.empty()) {
             int sz = q.size();
