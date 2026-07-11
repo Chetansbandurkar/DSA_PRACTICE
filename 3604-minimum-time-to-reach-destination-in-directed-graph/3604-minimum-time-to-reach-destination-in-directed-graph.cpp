@@ -9,7 +9,7 @@ class Solution {
 public:
     int minTime(int n, vector<vector<int>>& ed) {
         vector<vector<Edge>> g(n);
-        for (auto it : ed) {
+        for (const auto &it : ed) {
             int u = it[0];
             int v = it[1];
             int s = it[2];
@@ -34,7 +34,7 @@ public:
             if (tm > dist[u])
                 continue;
 
-            for (auto it : g[u]) {
+            for (const auto & it : g[u]) {
                 int v = it.v;
                 int s = it.s;
                 int e = it.e;
@@ -44,7 +44,7 @@ public:
                     reqTime = tm+1;
                 }
                 else if(tm>e) continue;
-                else if(tm<s) reqTime=(s-tm+1)+tm;
+                else if(tm<s) reqTime=s+1;
 
                 if(dist[v]>reqTime){
                     pq.push({reqTime, v});
