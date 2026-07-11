@@ -3,7 +3,7 @@ public:
     void dfs(int node, set<int>& comp, set<int>& vis, vector<vector<int>>& g) {
         comp.insert(node);
         vis.insert(node);
-        for (auto it : g[node]) {
+        for (auto &it : g[node]) {
             if (!vis.count(it)) {
                 dfs(it, comp, vis, g);
             }
@@ -11,7 +11,7 @@ public:
     }
     bool isCompleteComponent(set<int>&comp, vector<vector<int>>&g){
 
-        for(auto it : comp){
+        for(auto &it : comp){
             if(g[it].size()!=comp.size()-1) return false;
         }
 
@@ -20,7 +20,7 @@ public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
 
         vector<vector<int>> g(n);
-        for (auto it : edges) {
+        for (auto &it : edges) {
             g[it[0]].push_back(it[1]);
             g[it[1]].push_back(it[0]);
         }
