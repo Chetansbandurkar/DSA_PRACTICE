@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void dfs(int node, set<int>& comp, set<int>& vis, vector<vector<int>>& g) {
+    void dfs(int node, unordered_set<int>& comp, unordered_set<int>& vis, vector<vector<int>>& g) {
         comp.insert(node);
         vis.insert(node);
         for (auto &it : g[node]) {
@@ -9,7 +9,7 @@ public:
             }
         }
     }
-    bool isCompleteComponent(set<int>&comp, vector<vector<int>>&g){
+    bool isCompleteComponent(unordered_set<int>&comp, vector<vector<int>>&g){
 
         for(auto &it : comp){
             if(g[it].size()!=comp.size()-1) return false;
@@ -26,10 +26,10 @@ public:
         }
 
         int count = 0;
-        set<int>vis;
+       unordered_set<int>vis;
         for(int i=0;i<n;i++){
             if(!vis.count(i)){
-                set<int>comp;
+                unordered_set<int>comp;
                 dfs(i,comp, vis,g);
                 if(isCompleteComponent(comp, g))count++;
             }
