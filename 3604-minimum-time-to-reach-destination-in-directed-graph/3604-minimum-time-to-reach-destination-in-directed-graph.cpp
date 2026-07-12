@@ -32,7 +32,7 @@ public:
             int tm = node.first;
 
             if(u==n-1) return tm;
-            
+
             if (tm > dist[u])
                 continue;
 
@@ -55,6 +55,6 @@ public:
             }
         }
 
-        return dist[n - 1] == INT_MAX ? -1 : dist[n - 1];
+        return -1 ;
     }
 };
