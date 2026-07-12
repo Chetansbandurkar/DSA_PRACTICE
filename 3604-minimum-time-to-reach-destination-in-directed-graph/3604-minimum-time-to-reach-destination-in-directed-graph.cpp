@@ -31,6 +31,8 @@ public:
             int u = node.second;
             int tm = node.first;
 
+            if(u==n-1) return tm;
+            
             if (tm > dist[u])
                 continue;
 
