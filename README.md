@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
+| [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
@@ -174,5 +179,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+## Trie
+|  |
+| ------- |
+| [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 <!---LeetCode Topics End-->
