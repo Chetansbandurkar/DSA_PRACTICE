@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1462-course-schedule-iv) |
 | [1514-path-with-maximum-probability](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2050-parallel-courses-iii) |
 ## Topological Sort
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1462-course-schedule-iv](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1462-course-schedule-iv) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2050-parallel-courses-iii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -209,4 +214,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Counting
+|  |
+| ------- |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
