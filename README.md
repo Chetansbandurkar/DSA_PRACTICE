@@ -238,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
