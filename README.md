@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3123-find-edges-in-shortest-paths) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Matrix
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3123-find-edges-in-shortest-paths) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3123-find-edges-in-shortest-paths) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -198,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3123-find-edges-in-shortest-paths) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
