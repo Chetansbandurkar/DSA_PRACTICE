@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0886-possible-bipartition) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
