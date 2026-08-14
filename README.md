@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3620-network-recovery-pathways) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2685-count-the-number-of-complete-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Graph Theory
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [2092-find-all-people-with-secret](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2092-find-all-people-with-secret) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Trie
 |  |
 | ------- |
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
+## Greedy
+|  |
+| ------- |
+| [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 <!---LeetCode Topics End-->
