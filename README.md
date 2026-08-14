@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2076-process-restricted-friend-requests](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2092-find-all-people-with-secret) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2050-parallel-courses-iii) |
+| [2076-process-restricted-friend-requests](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2076-process-restricted-friend-requests) |
 | [2092-find-all-people-with-secret](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2092-find-all-people-with-secret) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
