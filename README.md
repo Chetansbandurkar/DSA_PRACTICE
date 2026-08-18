@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Graph Theory
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3620-network-recovery-pathways](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Hash Table
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2258-escape-the-spreading-fire](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2258-escape-the-spreading-fire) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3620-network-recovery-pathways](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [2092-find-all-people-with-secret](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2092-find-all-people-with-secret) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [3608-minimum-time-for-k-connected-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3608-minimum-time-for-k-connected-components) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Trie
 |  |
