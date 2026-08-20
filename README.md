@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
 ## String
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 ## Backtracking
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
+| [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -323,4 +326,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
+## Math
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
