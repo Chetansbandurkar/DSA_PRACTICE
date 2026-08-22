@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 ## Combinatorics
 |  |
@@ -341,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
