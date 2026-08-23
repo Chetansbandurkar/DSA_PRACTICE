@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0127-word-ladder](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -372,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
