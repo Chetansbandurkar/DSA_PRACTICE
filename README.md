@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0407-trapping-rain-water-ii) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 ## Sorting
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [1405-longest-happy-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1405-longest-happy-string) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Ordered Set
