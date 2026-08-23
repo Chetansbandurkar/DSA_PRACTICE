@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2258-escape-the-spreading-fire](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2258-escape-the-spreading-fire) |
