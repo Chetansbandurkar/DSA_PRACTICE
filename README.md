@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0407-trapping-rain-water-ii) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [2092-find-all-people-with-secret](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2092-find-all-people-with-secret) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
