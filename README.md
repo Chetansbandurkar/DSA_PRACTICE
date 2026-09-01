@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2258-escape-the-spreading-fire](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2258-escape-the-spreading-fire) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2258-escape-the-spreading-fire](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2258-escape-the-spreading-fire) |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3608-minimum-time-for-k-connected-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3608-minimum-time-for-k-connected-components) |
@@ -400,4 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+## Sliding Window
+|  |
+| ------- |
+| [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
