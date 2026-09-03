@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0207-course-schedule) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0210-course-schedule-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Recursion
 |  |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
