@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
 |  |
