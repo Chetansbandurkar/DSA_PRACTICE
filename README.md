@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
