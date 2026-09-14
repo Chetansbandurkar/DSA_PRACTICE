@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0743-network-delay-time](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0743-network-delay-time) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
@@ -465,15 +467,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Lifting
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Longest Common Subsequence
 |  |
 | ------- |
