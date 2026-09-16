@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
@@ -387,10 +388,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0062-unique-paths) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 ## Fermat's Little Theorem
 |  |
