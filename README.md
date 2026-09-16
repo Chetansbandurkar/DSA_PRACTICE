@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
