@@ -6,7 +6,7 @@ public:
 
         if (k == 0)
             return 0;
-        if (ind >= pres.size()+1)
+        if (ind >= pres.size())
             return INT_MAX;
         if (dp[ind][k] != -1)
             return dp[ind][k];
