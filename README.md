@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1052-grumpy-bookstore-owner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1052-grumpy-bookstore-owner) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1052-grumpy-bookstore-owner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Bracket Sequences
