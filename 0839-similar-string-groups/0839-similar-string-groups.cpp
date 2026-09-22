@@ -23,7 +23,7 @@ public:
         if (px == py)
             return false;
 
-        if (size[px] > py) {
+        if (size[px] > size[py]) {
             parent[py] = px;
             size[px] += size[py];
         } else {
