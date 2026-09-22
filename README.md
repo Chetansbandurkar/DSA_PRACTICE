@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1052-grumpy-bookstore-owner) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0886-possible-bipartition) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0886-possible-bipartition) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1462-course-schedule-iv) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
+| [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
 | [0886-possible-bipartition](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0886-possible-bipartition) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
 | [0940-distinct-subsequences-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1405-longest-happy-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1405-longest-happy-string) |
