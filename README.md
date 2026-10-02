@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3620-network-recovery-pathways) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
 ## String
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
 | [1405-longest-happy-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Ordered Set
 |  |
@@ -436,10 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Manacher
 |  |
 | ------- |
