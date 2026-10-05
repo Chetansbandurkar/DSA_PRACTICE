@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0127-word-ladder) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 ## Memoization
