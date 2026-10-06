@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0407-trapping-rain-water-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 ## Memoization
 |  |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
