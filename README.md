@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
+| [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0467-unique-substrings-in-wraparound-string) |
+| [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 ## Memoization
 |  |
@@ -524,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Design
+|  |
+| ------- |
+| [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
