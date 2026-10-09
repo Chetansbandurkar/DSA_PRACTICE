@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1052-grumpy-bookstore-owner](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1052-grumpy-bookstore-owner) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1263-minimum-moves-to-move-a-box-to-their-target-location](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1263-minimum-moves-to-move-a-box-to-their-target-location) |
+| [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1405-longest-happy-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1405-longest-happy-string) |
 | [1514-path-with-maximum-probability](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1514-path-with-maximum-probability) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
 | [0940-distinct-subsequences-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0940-distinct-subsequences-ii) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
+| [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1405-longest-happy-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1405-longest-happy-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2092-find-all-people-with-secret](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2092-find-all-people-with-secret) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
+| [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
