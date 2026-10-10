@@ -1,5 +1,3 @@
-
-
 class TrieNode {
 public:
     TrieNode* child[26];
@@ -55,7 +53,7 @@ public:
 
     void findLongestString() {
         string tmp = "";
-        ans = "";
+        // ans = "";
         dfs(root, tmp);
     }
 };
