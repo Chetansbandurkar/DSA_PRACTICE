@@ -53,7 +53,7 @@ public:
 
     void findLongestString() {
         string tmp = "";
-        // ans = "";
+        ans = "";
         dfs(root, tmp);
     }
 };
