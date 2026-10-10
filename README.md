@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 ## Memoization
