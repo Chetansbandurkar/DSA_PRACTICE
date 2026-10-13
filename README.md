@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0743-network-delay-time](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0785-is-graph-bipartite) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0648-replace-words](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0648-replace-words](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0648-replace-words) |
+| [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
@@ -549,5 +553,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 <!---LeetCode Topics End-->
