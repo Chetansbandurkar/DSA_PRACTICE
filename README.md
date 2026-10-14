@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Memoization
 |  |
 | ------- |
