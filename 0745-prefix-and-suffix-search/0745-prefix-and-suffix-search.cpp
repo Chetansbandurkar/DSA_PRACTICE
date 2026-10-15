@@ -70,7 +70,7 @@ public:
     int f(string pref, string suff) {
         string key = pref + "-" + suff;
         if (mp.find(key) != mp.end())
-    return mp[key];
+            return mp[key];
         vector<int> prefL = pt->searchString(pref);
         reverse(suff.begin(), suff.end());
         vector<int> suffL = st->searchString(suff);
