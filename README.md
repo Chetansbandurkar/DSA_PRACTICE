@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0745-prefix-and-suffix-search) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0745-prefix-and-suffix-search) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0745-prefix-and-suffix-search) |
 | [0752-open-the-lock](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0752-open-the-lock) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [0839-similar-string-groups](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0839-similar-string-groups) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0720-longest-word-in-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0720-longest-word-in-dictionary) |
+| [0745-prefix-and-suffix-search](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0745-prefix-and-suffix-search) |
 | [0792-number-of-matching-subsequences](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0792-number-of-matching-subsequences) |
 | [1268-search-suggestions-system](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1268-search-suggestions-system) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -559,4 +563,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
+| [0745-prefix-and-suffix-search](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0745-prefix-and-suffix-search) |
 <!---LeetCode Topics End-->
