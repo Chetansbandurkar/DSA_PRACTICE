@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0215-kth-largest-element-in-an-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0407-trapping-rain-water-ii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0064-minimum-path-sum) |
+| [0212-word-search-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0778-swim-in-rising-water) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 | [0433-minimum-genetic-mutation](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0433-minimum-genetic-mutation) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0467-unique-substrings-in-wraparound-string) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Search
 |  |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0212-word-search-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
