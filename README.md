@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3620-network-recovery-pathways) |
+| [3676-count-bowl-subarrays](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3676-count-bowl-subarrays) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3695-maximize-alternating-sum-using-swaps) |
 ## Breadth-First Search
 |  |
@@ -488,11 +489,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3676-count-bowl-subarrays](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3676-count-bowl-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0042-trapping-rain-water) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3676-count-bowl-subarrays](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3676-count-bowl-subarrays) |
 ## Manacher
 |  |
 | ------- |
