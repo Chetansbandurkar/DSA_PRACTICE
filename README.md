@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1627-graph-connectivity-with-threshold](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2050-parallel-courses-iii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2050-parallel-courses-iii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1584-min-cost-to-connect-all-points) |
+| [1627-graph-connectivity-with-threshold](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2076-process-restricted-friend-requests](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2076-process-restricted-friend-requests) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0062-unique-paths) |
+| [1627-graph-connectivity-with-threshold](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1627-graph-connectivity-with-threshold) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 ## Combinatorics
 |  |
@@ -572,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0676-implement-magic-dictionary](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0676-implement-magic-dictionary) |
 | [0677-map-sum-pairs](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0677-map-sum-pairs) |
 | [0745-prefix-and-suffix-search](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0745-prefix-and-suffix-search) |
+## Number Theory
+|  |
+| ------- |
+| [1627-graph-connectivity-with-threshold](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1627-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
