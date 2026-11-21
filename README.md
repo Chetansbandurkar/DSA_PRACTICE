@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2685-count-the-number-of-complete-components) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3123-find-edges-in-shortest-paths) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
 ## Union-Find
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2514-count-anagrams](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2514-count-anagrams) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Backtracking
 |  |
 | ------- |
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
