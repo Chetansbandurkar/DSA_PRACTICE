@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3599-partition-array-to-minimize-xor](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3599-partition-array-to-minimize-xor) |
 | [3607-power-grid-maintenance](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3607-power-grid-maintenance) |
 | [3620-network-recovery-pathways](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3620-network-recovery-pathways) |
 | [3676-count-bowl-subarrays](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3676-count-bowl-subarrays) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2050-parallel-courses-iii) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3599-partition-array-to-minimize-xor](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3599-partition-array-to-minimize-xor) |
 | [3620-network-recovery-pathways](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2411-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/2411-smallest-subarrays-with-maximum-bitwise-or) |
+| [3599-partition-array-to-minimize-xor](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3599-partition-array-to-minimize-xor) |
 ## Sliding Window
 |  |
 | ------- |
@@ -597,4 +600,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Prefix Sum
+|  |
+| ------- |
+| [3599-partition-array-to-minimize-xor](https://github.com/Chetansbandurkar/DSA_PRACTICE/tree/master/3599-partition-array-to-minimize-xor) |
 <!---LeetCode Topics End-->
